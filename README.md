@@ -35,10 +35,13 @@ Ini adalah repositori untuk tugas yang mencakup dua soal utama. Seluruh pekerjaa
    git clone https://github.com/i-nafrizaldi/tst-test
 
 2. Install Dependensi
+    ```bash
    npm install
 
-3. Jalankan Aplikasi
+4. Jalankan Aplikasi
+   ```bash
    npm run dev
 
-4. Jalankan pengujian
+5. Jalankan pengujian
+   ```bash
    npm test
